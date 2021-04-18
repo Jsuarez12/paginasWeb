@@ -1,0 +1,9 @@
+/* Comentario en CSS */
+body{
+
+    background-color:wheat;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    padding-left: 11em; /* se corre hacia la izquierda tanto como se diga en la medida */
+
+}
